@@ -83,6 +83,8 @@ Average customer age: 44, total customers: 11,377.
 Female gender profit margin: 50.2%, Male gender profit margin: 49.8%.
 Profitable color: Black ($12.97 Million), Yellow ($11.17 Million), Silver ($9.47 Million).
 Profit contribution by age group above 50: 45.8%.
+
+
 Conclusion:
 
 Through meticulous data preparation, relational modeling, and in-depth analysis leveraging DAX, we uncovered intricate insights into sales dynamics, customer behavior, and profitability trends across a four-year period. The detailed breakdowns showcased how specific products, customer segments, demographics, and sales attributes contributed to overall profitability, empowering stakeholders with actionable insights for informed decision-making.
